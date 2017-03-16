@@ -2,7 +2,9 @@
   "name": "js-dev-env",
   "version": "1.0.0",
   "description": "A base JavaScript Environment to jumpstart development",
-  "main": "index.js",
+  "scripts": {
+    "start": "node buildScripts/srcServer.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/azemetre/js-dev-env.git"
