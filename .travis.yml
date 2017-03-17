@@ -2,7 +2,6 @@ lanuage: node_js
 node_js:
   - "node"
   - "6"
-before_install: npm update
 install:
   - npm install
 script:
