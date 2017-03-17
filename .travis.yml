@@ -4,6 +4,7 @@ lanuage: node_js
 node_js:
   - "6"
 install:
+  - npm -g install npm@next
   - npm install
 script:
   - npm test
