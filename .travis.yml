@@ -1,9 +1,10 @@
-notifications:
-  email: false
 lanuage: node_js
 node_js:
+  - "node"
   - "6"
 install:
   - npm install
 script:
   - npm test
+notifications:
+  email: false
