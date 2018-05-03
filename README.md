@@ -27,7 +27,7 @@ Typing `npm run security-check` into a terminal will run a basic security audit.
 
 ### Mock API
 
-The Mock API in the `src/` directory is meant moch a user database
+The Mock API in the `src/` directory is meant to mock a user database
 
 To view this database run the following command into your terminal: `npm run open:src`
 
